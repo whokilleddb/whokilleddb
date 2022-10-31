@@ -35,6 +35,19 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
+ 
 <br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=whokilleddb&show_icons=true&count_private=true" align="center" /></div> </br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=whokilleddb" align="center" />
+</div>  
+
+<br />
+
+## Why Hire Me?
+<div align="center">
+<img src="https://i.pinimg.com/originals/e0/56/17/e056175df37aa035f29dfda3402e5253.jpg" align="center" />
+</div>  
