@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm DB👋, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm DB👋, a Security Consultant and a Red Teamer 👨‍💻 working in the Infosec since'20 🚀</div>  
   
 
 - 🔭 I’m currently working on Red-Teaming Stuff  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🦀 Fights with the Borrow Checker 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🐧 Loves Linux and anything & everything open source  
   
 
-- ⚡ Fun fact: I like to keep my night shift activated 24 x 7
+- ⚡ Fun fact: I can live off Potato Crisps and Pepsi
   
 
 <br/>  
