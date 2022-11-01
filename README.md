@@ -49,5 +49,5 @@
 
 ## Why Hire Me?
 <div align="center">
-<img src="https://i.pinimg.com/originals/e0/56/17/e056175df37aa035f29dfda3402e5253.jpg" align="center" />
+<img src="https://github.com/whokilleddb/whokilleddb/raw/main/img/hire_me.jpg" align="center" />
 </div>  
